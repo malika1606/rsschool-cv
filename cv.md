@@ -14,3 +14,8 @@ I love learning and acquiring new knowledge. I am currently enjoying taking this
 ## Skils
 
 I am new to programming. I have now skils.
+
+## Code example
+
+ `console.log("Hello, World!");`
+
