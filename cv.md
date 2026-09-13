@@ -17,15 +17,15 @@ I am new to programming. I have now skils.
 
 ## Code example
 
- `console.log("Hello, World!");`
+`console.log("Hello, World!");`
 
 ## Experience
  
-  No work experience
+No work experience
 
 ## Education
  
-    Secondary vocational education specializing in computer network and system setup and maintenance
+Secondary vocational education specializing in computer network and system setup and maintenance
 
 ## Languages 
 
