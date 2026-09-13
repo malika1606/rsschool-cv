@@ -22,3 +22,7 @@ I am new to programming. I have now skils.
 ## Experience
  
   No work experience
+
+## Education
+ 
+    Secondary vocational education specializing in computer network and system setup and maintenance
