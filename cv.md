@@ -26,3 +26,8 @@ I am new to programming. I have now skils.
 ## Education
  
     Secondary vocational education specializing in computer network and system setup and maintenance
+
+## Languages 
+
+  - English - B1
+  - Russian - native
