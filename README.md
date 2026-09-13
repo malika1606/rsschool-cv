@@ -1,1 +1,2 @@
-https://malika1606.github.io/rsschool-cv/cv
+- https://malika1606.github.io/rsschool-cv/cv
+- https://malika1606.github.io/rsschool-cv/

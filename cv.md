@@ -27,8 +27,6 @@ No work experience
 
 Secondary vocational education specializing in computer network and system setup and maintenance
 
-Secondary vocational education specializing in computer network and system setup and maintenance
-
 ## Languages
 
 * English - B1
