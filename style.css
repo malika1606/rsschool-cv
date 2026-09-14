@@ -55,3 +55,22 @@ a:hover {
     flex-wrap: wrap;
     gap: var(--space-base);
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-base);
+    background-color: var(--color-secondary);
+    padding: var(--space-base);
+}
+
+.rs-school {
+    width: 25px; 
+    height: 25px;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
