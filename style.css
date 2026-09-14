@@ -76,6 +76,8 @@ a:hover {
 }
 
 .main {
+    display: flex;
+    gap: var(--space-base);
     padding: var(--space-base);
 }
 
