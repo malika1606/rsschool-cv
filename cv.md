@@ -4,8 +4,8 @@
 
 ## Contact information
 
-* Phone: +79205530116.
-* Location Moscow, Russia.
+* Phone: +79205530116
+* Location Moscow, Russia
 
 ## Summary
 
@@ -24,8 +24,6 @@ I am new to programming. I have now skils.
 No work experience
 
 ## Education
-
-Secondary vocational education specializing in computer network and system setup and maintenance
 
 Secondary vocational education specializing in computer network and system setup and maintenance
 
